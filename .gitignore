@@ -23,6 +23,7 @@ chrome-user-data
 .vscode
 *.swp
 *.swo
+*.next
 yarn.lock
 
 packages/react-devtools-core/dist
